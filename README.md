@@ -21,5 +21,5 @@ If you want to improve the way the website looks, feel free to make changes in t
 - Step 4: Deploy the updated PR in your forked repository so that it is visible to us
 - Step 5: Wait until it gets merged
 
-### Try Out The Website Here : [GameZone]()<br>
+### Try Out The Website Here : [Multiplayer Snake]()<br>
 Note : The Game is in test version and does not reflect what the finished product will look like.<br><br>
